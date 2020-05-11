@@ -20,3 +20,4 @@ Chat app built on the MERN stack, just putting up the backend for now, cause im 
 * [Joeyscript](https://github.com/joey227/)
 
 > THERE IS NOTHING IN THIS REPOSITORY YET BECAUSE WE ARENT FINISHED, PLEASE WAIT
+> project is dead
